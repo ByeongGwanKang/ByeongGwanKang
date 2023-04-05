@@ -10,6 +10,8 @@
 [![ByeongGwanKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongGwanKang&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=weko0110)](https://solved.ac/weko0110/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongGwanKang&layout=compact&theme=transparent)
+
 ## 💻 Skills 💻
   ### Platforms & Languages
   </div>
